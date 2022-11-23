@@ -1,0 +1,25 @@
+{
+  "name": "project-2b",
+  "version": "0.0.1",
+  "description": "Homebase for many projects",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eylexander/Project-2B-withoutbootstrap.git"
+  },
+  "author": "Eylexander",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Eylexander/Project-2B-withoutbootstrap/issues"
+  },
+  "homepage": "https://github.com/Eylexander/Project-2B-withoutbootstrap#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
